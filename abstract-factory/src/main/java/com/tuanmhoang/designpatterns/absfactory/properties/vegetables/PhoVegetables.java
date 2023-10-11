@@ -1,4 +1,4 @@
-package com.tuanmhoang.designpatterns.absfactory.products.vegetables;
+package com.tuanmhoang.designpatterns.absfactory.properties.vegetables;
 
 import com.tuanmhoang.designpatterns.absfactory.enums.VegetablesType;
 import java.util.List;

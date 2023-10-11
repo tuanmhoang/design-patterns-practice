@@ -1,4 +1,4 @@
-package com.tuanmhoang.designpatterns.absfactory.products.meat;
+package com.tuanmhoang.designpatterns.absfactory.properties.meat;
 
 import com.tuanmhoang.designpatterns.absfactory.enums.MeatType;
 

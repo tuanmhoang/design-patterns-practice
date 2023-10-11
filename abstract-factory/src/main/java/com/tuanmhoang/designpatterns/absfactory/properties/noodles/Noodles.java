@@ -1,4 +1,4 @@
-package com.tuanmhoang.designpatterns.absfactory.products.noodles;
+package com.tuanmhoang.designpatterns.absfactory.properties.noodles;
 
 import com.tuanmhoang.designpatterns.absfactory.enums.NoodlesType;
 

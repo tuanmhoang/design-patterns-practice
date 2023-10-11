@@ -1,8 +1,8 @@
 package com.tuanmhoang.designpatterns.absfactory.maker;
 
-import com.tuanmhoang.designpatterns.absfactory.products.meat.Meat;
-import com.tuanmhoang.designpatterns.absfactory.products.noodles.Noodles;
-import com.tuanmhoang.designpatterns.absfactory.products.vegetables.Vegetables;
+import com.tuanmhoang.designpatterns.absfactory.properties.meat.Meat;
+import com.tuanmhoang.designpatterns.absfactory.properties.noodles.Noodles;
+import com.tuanmhoang.designpatterns.absfactory.properties.vegetables.Vegetables;
 
 public abstract class NoodlesMaker {
     abstract Noodles getNoodles();

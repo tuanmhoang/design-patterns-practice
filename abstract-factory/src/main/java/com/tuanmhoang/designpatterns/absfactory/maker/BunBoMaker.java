@@ -1,11 +1,11 @@
 package com.tuanmhoang.designpatterns.absfactory.maker;
 
-import com.tuanmhoang.designpatterns.absfactory.products.meat.Beef;
-import com.tuanmhoang.designpatterns.absfactory.products.meat.Meat;
-import com.tuanmhoang.designpatterns.absfactory.products.noodles.BunBo;
-import com.tuanmhoang.designpatterns.absfactory.products.noodles.Noodles;
-import com.tuanmhoang.designpatterns.absfactory.products.vegetables.BunBoVegetables;
-import com.tuanmhoang.designpatterns.absfactory.products.vegetables.Vegetables;
+import com.tuanmhoang.designpatterns.absfactory.properties.meat.Beef;
+import com.tuanmhoang.designpatterns.absfactory.properties.meat.Meat;
+import com.tuanmhoang.designpatterns.absfactory.properties.noodles.BunBo;
+import com.tuanmhoang.designpatterns.absfactory.properties.noodles.Noodles;
+import com.tuanmhoang.designpatterns.absfactory.properties.vegetables.BunBoVegetables;
+import com.tuanmhoang.designpatterns.absfactory.properties.vegetables.Vegetables;
 
 public class BunBoMaker extends NoodlesMaker{
     @Override
