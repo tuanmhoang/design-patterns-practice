@@ -1,4 +1,4 @@
-package com.tuanmhoang.designpatterns.factory.nonfactory;
+package com.tuanmhoang.designpatterns.factory.novocp;
 
 import com.tuanmhoang.designpatterns.factory.NuocGiaiKhat;
 import com.tuanmhoang.designpatterns.factory.TraDa;
