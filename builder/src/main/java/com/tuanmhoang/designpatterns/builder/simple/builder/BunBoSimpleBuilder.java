@@ -52,7 +52,7 @@ public class BunBoSimpleBuilder {
         return this;
     }
 
-    public BunBoSimple build() {
+    public BunBoSimple cook() {
         return new BunBoSimple(
             noodles,
             meat,

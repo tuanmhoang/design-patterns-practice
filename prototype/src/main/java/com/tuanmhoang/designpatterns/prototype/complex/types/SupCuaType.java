@@ -1,0 +1,13 @@
+package com.tuanmhoang.designpatterns.prototype.complex.types;
+
+public enum SupCuaType {
+    SUP_CUA_THUONG_SIZE_SMALL,
+    SUP_CUA_THUONG_SIZE_MEDIUM,
+    SUP_CUA_THUONG_SIZE_BIG,
+    SUP_CUA_BACH_THAO_SIZE_SMALL,
+    SUP_CUA_BACH_THAO_SIZE_MEDIUM,
+    SUP_CUA_BACH_THAO_SIZE_BIG,
+    SUP_CUA_OC_HEO_SIZE_SMALL,
+    SUP_CUA_OC_HEO_SIZE_MEDIUM,
+    SUP_CUA_OC_HEO_SIZE_BIG,
+}

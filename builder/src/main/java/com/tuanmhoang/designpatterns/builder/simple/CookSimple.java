@@ -15,7 +15,7 @@ public class CookSimple {
             .addMeat(List.of(Meat.THIT_BO,Meat.GIO_HEO))
             .addVegetables(List.of(Vegetables.GIA,Vegetables.RAU_MUONG_BAO))
             .addFlavor(List.of(Flavor.OT_SA_TE, Flavor.NUOC_MAM))
-            .build();
+            .cook();
         bunBoSimple1.printIngredients();
     }
 }
